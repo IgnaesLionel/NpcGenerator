@@ -1,0 +1,48 @@
+[
+  [
+    ["léger surpoids", 0, 7],
+    ["maigre", 8, 18],
+    ["svelte", 19, 60],
+    ["obèse", 61, 64],
+    ["obésité morbide", 65, 66],
+    ["plutôt fin", 66, 85],
+    ["squelettique", 89, 90],
+    ["surpoids", 91, 101]
+  ],
+  [
+    ["gigantesque", 0, 2],
+    ["grand", 3, 20],
+    ["minuscule", 21, 23],
+    ["nain", 24, 25],
+    ["normal", 25, 75],
+    ["petit", 76, 88],
+    ["plutôt petit", 89, 95],
+    ["très grand", 96, 101]
+  ],
+  [
+    ["acajou", 0, 2],
+    ["basané", 3, 10],
+    ["blafard", 11, 13],
+    ["blême", 14, 15],
+    ["bronzé", 16, 20],
+    ["brun", 21, 25],
+    ["bruni", 26, 27],
+    ["caramel", 28, 30],
+    ["cireux",31, 31],
+    ["clair", 32, 40],
+    ["coloré", 41, 43],
+    ["cramoisi", 44, 44],
+    ["dorée", 45, 50],
+    ["éclatant", 51, 58],
+    ["frais", 59, 65],
+    ["hâlé", 66, 69],
+    ["jaunâtre", 70, 71],
+    ["livide", 72, 73],
+    ["lumineux", 74, 78],
+    ["pâle", 79, 86],
+    ["rose", 87, 95],
+    ["rougeaud", 96, 99],
+    ["terreux", 100, 101]
+
+  ]
+]
